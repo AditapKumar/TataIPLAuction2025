@@ -3,19 +3,20 @@ Tata IPL Auction 2025 -  Analysis
 
 Developed an IPL Auction 2025 Player Analysis project utilizing PandasAI (used API as well) and Excel, showcasing key statistical insights such as salary distributions, player specializations, and performance trends. Generated comprehensive visualizations to aid in data-driven decision-making for auction strategies.
 
-##Here are the few insights from the analysis:
+**Here are a few insights from the analysis:**
+- Fun Fact: You can chat and analyse
+![Fun Fact: It also replies](https://github.com/user-attachments/assets/0e9b20c0-9f76-462b-9b6a-c8207a857b41)
+ <!-- Replace 'image-url.jpg' with your image URL -->
 
-![Fun Fact: It also replies](![image](https://github.com/user-attachments/assets/0e9b20c0-9f76-462b-9b6a-c8207a857b41)
-)  <!-- Replace 'image-url.jpg' with your image URL -->
+- Number of Players vs Decade of their birth
+![Plotted a graph: Number of Players vs Decade of their birth](https://github.com/user-attachments/assets/23409efc-452b-4e93-b40e-9937f4b8d055) <!-- Replace 'image-url.jpg' with your image URL -->
 
-![Plotted a graph: Number of Players vs Decade of their birth](![image](https://github.com/user-attachments/assets/23409efc-452b-4e93-b40e-9937f4b8d055)
-)  <!-- Replace 'image-url.jpg' with your image URL -->
+- Base Salary vs Number of Players
+![Plotted a graph: Base Salary vs Number of Players](https://github.com/user-attachments/assets/750005dd-e9db-46c5-a6eb-d3b7547efbfe) <!-- Replace 'image-url.jpg' with your image URL -->
 
-![Plotted a graph: Base Salary vs Number of Players](![image](https://github.com/user-attachments/assets/750005dd-e9db-46c5-a6eb-d3b7547efbfe)
-) <!-- Replace 'image-url.jpg' with your image URL -->
-
-![Oldest vs Youngest Player](![image](https://github.com/user-attachments/assets/dee149b9-ae6e-40c1-a1e3-f316c5072fd2)
-)  <!-- Replace 'image-url.jpg' with your image URL -->
+- Oldest vs Youngest Player
+![Oldest vs Youngest Player](https://github.com/user-attachments/assets/dee149b9-ae6e-40c1-a1e3-f316c5072fd2)
+<!-- Replace 'image-url.jpg' with your image URL -->
 
 ## Outcomes:
 - Conducted in-depth analysis of IPL Auction 2025 data using PandasAI and Excel, providing valuable insights for strategic decision-making.
