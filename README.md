@@ -6,15 +6,13 @@ Developed an IPL Auction 2025 Player Analysis project utilizing PandasAI (used A
 ##Here are the few insights from the analysis:
 
 ![Fun Fact: It also replies](![image](https://github.com/user-attachments/assets/0e9b20c0-9f76-462b-9b6a-c8207a857b41)
-)
 )  <!-- Replace 'image-url.jpg' with your image URL -->
 
 ![Plotted a graph: Number of Players vs Decade of their birth](![image](https://github.com/user-attachments/assets/23409efc-452b-4e93-b40e-9937f4b8d055)
 )  <!-- Replace 'image-url.jpg' with your image URL -->
 
 ![Plotted a graph: Base Salary vs Number of Players](![image](https://github.com/user-attachments/assets/750005dd-e9db-46c5-a6eb-d3b7547efbfe)
-)
-)  <!-- Replace 'image-url.jpg' with your image URL -->
+) <!-- Replace 'image-url.jpg' with your image URL -->
 
 ![Oldest vs Youngest Player](![image](https://github.com/user-attachments/assets/dee149b9-ae6e-40c1-a1e3-f316c5072fd2)
 )  <!-- Replace 'image-url.jpg' with your image URL -->
